@@ -1,4 +1,3 @@
-<img src="octocat.png" align="right" />
 
 ## Alexey Kalenkovec
   
