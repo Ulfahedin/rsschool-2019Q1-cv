@@ -24,8 +24,8 @@ article{
 }
 .logo{
   position: absolute;
-  max-width: 100%;
   left: 60%;
+  max-width: 100%;
 }
 h1{
   padding-bottom: 0.3em;
@@ -67,7 +67,6 @@ h2{
     display: flex;
     justify-content: center;
     max-width: 80%;
-    left: 60%;
   }
   .education,
   .skills,
