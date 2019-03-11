@@ -1,1 +1,1 @@
-[https://Ulfahedin.github.io/rsschool-2019Q1-cv/cv](https://Ulfahedin.github.io/rsschool-2019Q1-)
+[https://Ulfahedin.github.io/rsschool-2019Q1-cv](https://Ulfahedin.github.io/rsschool-2019Q1-cv/index.html)
